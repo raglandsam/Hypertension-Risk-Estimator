@@ -1,7 +1,6 @@
-pandas
-numpy
-scikit-learn
-joblib
-xgboost
-streamlit
-pathlib
+streamlit==1.xx.x
+pandas==x.x.x
+numpy==x.x.x
+scikit-learn==x.x.x
+joblib==x.x.x
+xgboost==x.x.x
